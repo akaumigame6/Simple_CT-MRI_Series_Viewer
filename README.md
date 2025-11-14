@@ -121,10 +121,10 @@ Q: オーバーレイ線がずれて見える
 ---
 
 ## 8. ライセンス
-このソフトウェアは
+このソフトウェアはMITライセンス[LICENSE](LICENSE)の元公開しています。
 
 ### このソフトで使用しているソフトウェア・外部ライブラリのライセンス
-FULLのライセンスは[THIRD_PARTY_LICE_TEMP.md](THIRD_PARTY_LICE_TEMP.md)に記述しています
+FULLのライセンスは[THIRD_PARTY_LICE_TEMP.md](THIRD_PARTY_LICENSES.md)に記述しています
 - Python © Python Software Foundation, licensed under the PSF License
 - numpy    2.3.4    BSD License  https://numpy.org                   Fundamental package for array computing in Python
 - pillow   12.0.0   MIT-CMU      https://python-pillow.github.io     Python Imaging Library (fork)               
